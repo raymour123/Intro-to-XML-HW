@@ -1,0 +1,42 @@
+<movie_collection> 
+<elements xmlns:collection="http://www.movies.com">
+ <pfx:myelement="childElement1">one</pfx:myelement>
+ <pfx:myelement="childElement2">two</pfx:myelement>
+</elements>
+  <movie> 
+    <id>1</id> 
+    <title>Beverly Hills Cop 1</title> 
+    <description>Detroit Cop travels to Beverly Hill to investigate friends murder</description> 
+    <showtimes> 
+      <showtime>12:45</showtime> 
+      <showtime>2:05</showtime> 
+      <showtime>1:25</showtime> 
+    </showtimes>
+    <id>2</id> 
+    <title>Beverly Hills Cop 2</title> 
+    <description>Detroit Cop travels to Beverly Hill for second time to investigate a crime organization who shot his friend</description> 
+    <showtimes> 
+      <showtime>10:45</showtime> 
+      <showtime>11:25</showtime> 
+      <showtime>1:55</showtime> 
+    </showtimes> 
+    <id>3</id> 
+    <title>Beverly Hills Cop 3</title> 
+    <description>Detroit Cop travels to Beverly Hill to investigate counterfeiting operation at amusement park</description> 
+    <showtimes> 
+      <showtime>9:15</showtime> 
+      <showtime>11:05</showtime> 
+      <showtime>1:55</showtime> 
+    </showtimes>
+    <id>4</id> 
+    <title>Trading Places</title> 
+    <description>Savy street scam artist trades places with prestigious stock broker and vice versa in an ill conceived social experiment</description> 
+    <showtimes> 
+      <showtime>10:45</showtime> 
+      <showtime>2:05</showtime> 
+      <showtime>2:25</showtime> 
+    </showtimes>   
+  </movie> 
+    <myEmptyElement1/>
+    <myEmptyElement2/>
+ </movie_collection>
